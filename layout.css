@@ -16,3 +16,32 @@ h1 {
 	margin-left: -50px;
 	
 }
+p1 {
+	background-color: #8FD5FC;
+	display: block;
+	font-size: 20pt;
+	
+}
+h3 {
+	background-color: #8FD5FC;
+	font-size: 20pt;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+p2 {
+	background-color: #72D8ED;
+	padding-right: 0px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 0px;
+	text-align: center;
+	display: block;
+	margin-right: 370px;
+	margin-left: 370px;
+	margin-top: 15px;
+	font-size: 27px;
+}
+.img {
+	width: 110%;
+	height: 245px;
+	align-content:center;
+}
