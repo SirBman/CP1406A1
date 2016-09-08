@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-image: url(images/beachNet.jpg);
+	background-position: 0% 0%;
+	background-size: cover;
+}
+h1 {
+	background-color: #53ADD4;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	text-align: center;
+	margin-right: -50px;
+	padding-right: 0px;
+	right: 0px;
+	margin-left: -50px;
+	
+}
