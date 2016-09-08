@@ -27,6 +27,18 @@ h3 {
 	font-size: 20pt;
 	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
 }
+nav {
+	padding-top: 9px;
+	padding-right: 9px;
+	padding-bottom: 9px;
+	padding-left: 9px;
+	margin-right: -1px;
+	right: 0px;
+	display: block;
+	background-color: #53ADD4;
+	text-align: center;
+}
+
 p2 {
 	background-color: #72D8ED;
 	padding-right: 0px;
@@ -42,6 +54,18 @@ p2 {
 }
 .img {
 	width: 110%;
-	height: 245px;
-	align-content:center;
+	height: 500px;
+	align-content: center;
+	background-color: undefined;
+}
+span {
+	background-color: #8FD5FC;
+}
+p3 {
+	background-color: #8FD5FC;
+	display: block;
+	margin-right: 318px;
+	margin-left: 318px;
+	text-align: center;
+	font-size: 23px;
 }
